@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bilal Store — PHP E-commerce + Admin Panel
 
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?logo=php&logoColor=white)
@@ -392,3 +393,6 @@ and steps to reproduce.
 
 [MIT](LICENSE). Copy, modify, sell, sublicense — just keep the copyright
 notice.
+=======
+# MobileHub
+>>>>>>> 3e836739d053559ea3de7150ca44435d47c146d7
